@@ -36,14 +36,6 @@ A simple RESTful API for managing your to-do list. This project is built with **
 - **Maven**
 - **PostgreSQL**
 
-### Installation Steps
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/todolist-api.git
-   cd todolist-api
-   ```
 
 2. Set up the database:
 
